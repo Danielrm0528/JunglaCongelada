@@ -9,7 +9,6 @@ import json
 from monstruo import monstruo 
 
 
-#prueba
 # Inicializa Pygame
 pygame.init()
 pygame.display.set_caption('La jungla congelada')
