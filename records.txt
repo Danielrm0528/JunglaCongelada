@@ -1,1 +1,1 @@
-{"nivelMax": 4, "puntosMax": 768}
+{"nivelMax": 0, "puntosMax": 0}
